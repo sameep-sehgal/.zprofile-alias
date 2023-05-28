@@ -1,0 +1,1 @@
+Aliases for z shell
